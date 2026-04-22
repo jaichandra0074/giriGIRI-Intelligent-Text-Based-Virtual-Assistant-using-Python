@@ -1,1 +1,1 @@
-# giriGIRI-Intelligent-Text-Based-Virtual-Assistant-using-Python
+# GIRI-Intelligent-Text-Based-Virtual-Assistant-using-Python
